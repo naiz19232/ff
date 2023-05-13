@@ -1,0 +1,32 @@
+.footer
+{
+    position: fixed;
+    color: aquamarine;
+    background-color:black;
+    text-align: center;
+    width: 100%;
+    bottom: 0;
+    line-height: 3;
+}
+.note
+{
+    font-size: 15px;
+    color: black;
+}
+.heading
+{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 8px 8px 18px lightgreen;
+}
+canvas
+{
+    border: 5px solid white;
+    border-radius: 25px;
+    box-shadow: 10px 10px 10px lightblue;
+}
+body
+{
+    background-size:contain ;
+}
